@@ -64,15 +64,27 @@ Daily DSA Question Solution
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/1285-balance-a-binary-search-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/1285-balance-a-binary-search-tree) |
+# Greedy
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/1285-balance-a-binary-search-tree) |
