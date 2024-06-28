@@ -20,6 +20,7 @@ Daily DSA Question Solution
 |  |
 | ------- |
 | [1675-magnetic-force-between-two-balls](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/1675-magnetic-force-between-two-balls) |
+| [2379-maximum-total-importance-of-roads](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/2379-maximum-total-importance-of-roads) |
 # Sliding Window
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Daily DSA Question Solution
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/2379-maximum-total-importance-of-roads) |
 # Ordered Set
 |  |
 | ------- |
@@ -88,7 +90,9 @@ Daily DSA Question Solution
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/1285-balance-a-binary-search-tree) |
+| [2379-maximum-total-importance-of-roads](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/2379-maximum-total-importance-of-roads) |
 # Graph
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/zachDemsy/LeeetCode_Dsa/tree/master/2379-maximum-total-importance-of-roads) |
